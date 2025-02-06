@@ -1,3 +1,4 @@
 * Using Java Script,Html and CSS i created Maze-Game-2, Its a fun 2D based game.
 * The Goal of the game is to get the key (user) to the house through the maze.
 * There are 4 levels of difficulty you can try Easy-Medium-Hard-Extreme.
+* I also imported Key.png and Home.png with are images of a key (user) and a home (goal).
