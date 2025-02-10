@@ -1,6 +1,6 @@
-🎮 Video Game Pong Game 🎮
+🎮 Video Game Maze Game 2 🎮
 
-*A simple Pong Game made in Visual Studio Code. 
+*A simple labyrinth game made in Visual Studio Code. 
 
 *This project shows basic game development principles, 
 
@@ -16,7 +16,7 @@ Features 📚
 
 *Start and Reset functionality Allows the game to start fresh and reset at any time.
 
-*Win detection Detects when a player wins or loses the game.
+*Win detection Detects when a player win's by getiing the key through the labyrinth to the house.
 
 
 📚 Tech used 📚
