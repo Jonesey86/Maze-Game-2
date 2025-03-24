@@ -524,7 +524,7 @@ window.onload = function () {
     }
   };
   sprite = new Image();
-  sprite.src = "key.png" + "?" + new Date().getTime();
+  sprite.src = "Key.png" + "?" + new Date().getTime();
   sprite.setAttribute("crossOrigin", " ");
   sprite.onload = function () {
     sprite = changeBrightness(1.2, sprite);
@@ -534,7 +534,7 @@ window.onload = function () {
   };
 
   finishSprite = new Image();
-  finishSprite.src = "home.png" + "?" + new Date().getTime();
+  finishSprite.src = "Home.png" + "?" + new Date().getTime();
   finishSprite.setAttribute("crossOrigin", " ");
   finishSprite.onload = function () {
     finishSprite = changeBrightness(1.1, finishSprite);
