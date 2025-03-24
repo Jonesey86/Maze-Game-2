@@ -41,7 +41,7 @@ How to play video game 🎮
   to the house.
 
 3. Win or Reset
-   The game detects wins or loss and displays the result.
+   The game detects wins or loss and displays the result along with a congratulations message.
 
 _Click Reset to restart the game_.
 
